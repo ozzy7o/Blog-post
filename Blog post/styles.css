@@ -1,0 +1,52 @@
+body{
+   font-family: 'Source Sans Pro', sans-serif;
+   border:20px solid #adb6bd;
+   margin-top: 5%;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-bottom: 10% auto;    
+}
+
+#dateOne{
+    color:#3e94ea;
+    margin:5%;
+    padding 5px;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+}
+
+#dateTwo{
+    color:#3e94ea;
+    margin:5%;
+    padding 5px;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+}
+
+.leftBorder {
+    border-left: 8px solid #adb6bd;
+    padding-left: 1%;
+	
+}
+
+h1{
+    margin:5%;
+    padding 5px;
+    font-size:40px;
+    font-weight:bolder;
+    
+}
+
+p{ 
+    margin:5%;
+    padding 5px;
+    font-size: 20px;
+}
+
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+    margin: 5%;
+}
+
